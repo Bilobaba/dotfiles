@@ -45,3 +45,6 @@
 
 [branch "master"]
   mergeoptions = --no-edit
+[user]
+	email = tao.zen.duy@gmail.com
+	name = Duy DANG
