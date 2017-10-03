@@ -11,6 +11,7 @@
 
 [core]
   pager = less -FRSX
+	editor = subl -n -w  >/dev/null 2>&1
 
 [alias]
   co = checkout
@@ -47,4 +48,4 @@
   mergeoptions = --no-edit
 [user]
 	email = tao.zen.duy@gmail.com
-	name = DuyDANG
+	name = Duy DANG
